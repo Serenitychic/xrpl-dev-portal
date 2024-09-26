@@ -15,11 +15,11 @@
     "@codemirror/state": "6.3.3",
     "@codemirror/view": "^6.22.2",
     "@lezer/highlight": "^1.2.0",
-    "@redocly/realm": "^0.78.6",
+    "@redocly/realm": "^0.103.1",
     "@uiw/codemirror-themes": "4.21.21",
     "@uiw/react-codemirror": "^4.21.21",
     "@xrplf/isomorphic": "^1.0.0-beta.1",
-    "axios": "^1.6.2",
+    "axios": "^1.7.7",
     "clsx": "^2.0.0",
     "lottie-react": "^2.4.0",
     "moment": "^2.29.4",
@@ -35,7 +35,7 @@
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "bootstrap": "^4.6.2",
+    "bootstrap": "^5.0.0",
     "htmltojsx": "^0.3.0",
     "sass": "1.26.10"
   }
